@@ -1,1 +1,15 @@
-
+{
+  "name": "nova-nexus-proxy",
+  "version": "1.0.0",
+  "description": "Proxy seguro para Gemini API con Google Search",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
