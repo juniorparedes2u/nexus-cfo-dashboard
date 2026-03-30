@@ -1,15 +1,12 @@
 {
-  "name": "nova-nexus-proxy",
+  "name": "holder-cfo-proxy",
   "version": "1.0.0",
-  "description": "Proxy seguro para Gemini API con Google Search",
+  "description": "Secure proxy for Holder CFO Dashboard chat",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "engines": {
     "node": ">=18"
-  },
-  "dependencies": {
-    "node-fetch": "^2.7.0"
   }
 }
